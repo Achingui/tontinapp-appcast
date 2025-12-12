@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>TontinApp Updates</title>
+        <description>Update feed for TontinApp iOS</description>
+        <language>en</language>
+        
+        <item>
+            <title>Version 2.3.24</title>
+            <description>
+                <![CDATA[
+                    <h3>What's New in Version 2.3.24</h3>
+                    <ul>
+                        <li>✨ Modern upgrade notification system</li>
+                        <li>🎨 Enhanced dark mode support</li>
+                        <li>📱 Improved chat features</li>
+                        <li>🐛 Bug fixes and performance improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+            <enclosure 
+                url="https://apps.apple.com/app/idYOUR_APP_STORE_ID" 
+                sparkle:version="2.3.24" 
+                sparkle:shortVersionString="2.3.24" 
+                sparkle:os="ios"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
