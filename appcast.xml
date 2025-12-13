@@ -6,7 +6,7 @@
         <language>en</language>
         
         <item>
-            <title>Version 2.3.24</title>
+            <title>Version 2.3.25</title>
             <description>
                 <![CDATA[
                     <h3>What's New in Version 2.3.24</h3>
@@ -18,11 +18,11 @@
                     </ul>
                 ]]>
             </description>
-            <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+            <pubDate>Thu, 13 Dec 2024 12:00:00 +0000</pubDate>
             <enclosure 
-                url="https://apps.apple.com/app/idYOUR_APP_STORE_ID" 
-                sparkle:version="2.3.24" 
-                sparkle:shortVersionString="2.3.24" 
+                url="https://apps.apple.com/app/1614255874" 
+                sparkle:version="2.3.25" 
+                sparkle:shortVersionString="2.3.25" 
                 sparkle:os="ios"
                 type="application/octet-stream"
             />
