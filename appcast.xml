@@ -9,16 +9,20 @@
             <title>Version 2.3.25</title>
             <description>
                 <![CDATA[
-                    <h3>What's New in Version 2.3.24</h3>
+                    <h3>What's New in Version 2.3.25</h3>
                     <ul>
                         <li>✨ Modern upgrade notification system</li>
                         <li>🎨 Enhanced dark mode support</li>
                         <li>📱 Improved chat features</li>
                         <li>🐛 Bug fixes and performance improvements</li>
+                        <li>🔐 <strong>Fixed E2EE Push Notifications</strong> - Encrypted chat messages now show actual message content in notifications instead of "New message"</li>
+                        <li>📬 Improved notification display across all app states (foreground, background, and terminated)</li>
+                        <li>💰 Enhanced project contribution terminology and UI clarity</li>
+                        <li>🐛 Bug fixes and performance improvements</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>Thu, 13 Dec 2024 12:00:00 +0000</pubDate>
+            <pubDate>Sat, 14 Dec 2024 18:00:00 +0000</pubDate>
             <enclosure 
                 url="https://apps.apple.com/app/1614255874" 
                 sparkle:version="2.3.25" 
