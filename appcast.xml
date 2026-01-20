@@ -6,6 +6,35 @@
         <language>en</language>
         
         <item>
+            <title>Version 2.3.29</title>
+            <description>
+                <![CDATA[
+                    <h3>What's New in Version 2.3.29</h3>
+                    <ul>
+                        <li>🎯 <strong>Fundraising-Focused UI Redesign</strong> - Complete dashboard transformation with fundraisers as the primary content, new hero section, and prominent "Start Fundraiser" call-to-action</li>
+                        <li>👥 <strong>Multi-Account Support</strong> - Seamlessly switch between multiple accounts on a single device with complete data isolation</li>
+                        <li>🔐 <strong>E2EE Multi-Account Fix</strong> - Fixed encrypted push notifications for devices with multiple accounts - each user now receives properly decrypted messages</li>
+                        <li>🎨 <strong>Enhanced Dark Mode</strong> - Improved theme switching with instant system UI overlay updates and better status bar handling</li>
+                        <li>💳 <strong>Stripe Connect Integration</strong> - New payment and payout features for fundraiser creators</li>
+                        <li>📱 <strong>New Create Action Sheet</strong> - Redesigned + button with fundraiser creation as the primary action</li>
+                        <li>📊 <strong>Creator Mini Dashboard</strong> - Real-time stats and insights for fundraiser creators</li>
+                        <li>📖 <strong>Fundraising Stories</strong> - New story badges and overlays for fundraising campaigns</li>
+                        <li>💬 <strong>Pinned Fundraising in Chat</strong> - Share and pin fundraisers directly in conversations</li>
+                        <li>🐛 Bug fixes and performance improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Sun, 19 Jan 2025 22:00:00 +0000</pubDate>
+            <enclosure 
+                url="https://apps.apple.com/app/1614255874" 
+                sparkle:version="2.3.29" 
+                sparkle:shortVersionString="2.3.29" 
+                sparkle:os="ios"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 2.3.25</title>
             <description>
                 <![CDATA[
